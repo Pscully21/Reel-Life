@@ -8,6 +8,6 @@ Currently working on implementing React Components
 - [Installation](#installation)
 - [License](#license)
 ## Installation
-## Liscense 
+## License 
 This repo has the MIT license 
 ## Production
